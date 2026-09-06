@@ -347,4 +347,17 @@ const PROJECTS = [
     status: "proof of value",
     palette: ["#1a0a00", "#f5c842", "#8b0000"],
   },  
+  {
+    id: "yapaslepanneau",
+    title: "Y'a pas le panneau",
+    subtitle: "yapaslepanneau",
+    desc: "yapaslepanneau",
+    emoji: "⚠",
+    img: "assets/images/yapaslepanneau.png",
+    tags: ["jeu"],
+    github: "https://github.com/kevinraphael95/yapaslepanneau",
+    site: "https://kevinraphael95.github.io/yapaslepanneau/",
+    status: "alpha",
+    palette: ["#1a0a00", "#f5c842", "#8b0000"],
+  },
 ];
