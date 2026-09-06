@@ -353,7 +353,7 @@ const PROJECTS = [
     subtitle: "yapaslepanneau",
     desc: "yapaslepanneau",
     emoji: "⚠",
-    img: "assets/images/yapaslepanneau.png",
+    img: "assets/images/yapaslepanneau.jpg",
     tags: ["jeu"],
     github: "https://github.com/kevinraphael95/yapaslepanneau",
     site: "https://kevinraphael95.github.io/yapaslepanneau/",
