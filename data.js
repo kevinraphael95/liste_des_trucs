@@ -351,7 +351,7 @@ const PROJECTS = [
     id: "yapaslepanneau",
     title: "Y'a pas le panneau",
     subtitle: "yapaslepanneau",
-    desc: "yapaslepanneau",
+    desc: "Pour réviser les panneaux du code de la route.",
     emoji: "⚠",
     img: "assets/images/yapaslepanneau.jpg",
     tags: ["jeu"],
