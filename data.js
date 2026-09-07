@@ -245,7 +245,7 @@ const PROJECTS = [
   },
   {
     id: "Réviser les panneaux du code de la route",
-    title: "Réviser les panneaux du code de la route",
+    title: "X Réviser les panneaux du code de la route",
     subtitle: "yapaslepanneau",
     desc: "Pour réviser les panneaux du code de la route.",
     emoji: "⚠",
@@ -258,7 +258,7 @@ const PROJECTS = [
   },
   {
     id: "smashcar",
-    title: "SmashCar",
+    title: "X SmashCar",
     subtitle: "SmashCar",
     desc: "SmashCar.",
     emoji: "🚗",
@@ -297,7 +297,7 @@ const PROJECTS = [
   },
   {
     id: "whosthatpokemon",
-    title: "Who's that Pokémon?",
+    title: "X Who's that Pokémon?",
     subtitle: "Devine le Pokémon",
     desc: "Who's that Pokemon ?",
     emoji: "👁️",
