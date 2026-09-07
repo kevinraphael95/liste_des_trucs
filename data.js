@@ -266,7 +266,7 @@ const PROJECTS = [
     tags: ["jeu"],
     github: "https://github.com/kevinraphael95/smashcar",
     site: "https://kevinraphael95.github.io/smashcar/",
-    status: "proof of concept",
+    status: "alpha",
     palette: ["#18181b", "#a855f7", "#e9d5ff"],
   },
   {
