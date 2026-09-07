@@ -305,7 +305,7 @@ const PROJECTS = [
     tags: ["jeu"],
     github: "https://github.com/kevinraphael95/whosthatpokemon",
     site: "https://kevinraphael95.github.io/whosthatpokemon/",
-    status: "beta",
+    status: "alpha",
     palette: ["#ffcb05", "#3b4cca", "#cc0000"],
   },
   {
